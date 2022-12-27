@@ -27,3 +27,7 @@ I made the design, layout and programming of the project.*
    - Read Notes
    - Modify Notes
    - Delete Notes
+   
+   
+![app-notas](https://user-images.githubusercontent.com/76080165/209723817-23d79f0b-8bee-43db-b4b6-44c3bef269bf.jpg)
+![app-notas2](https://user-images.githubusercontent.com/76080165/209723977-1eb3d13f-bc5f-44bd-ae06-b5b7580ed3ad.jpg)
